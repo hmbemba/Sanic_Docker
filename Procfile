@@ -1,1 +1,1 @@
-worker: python server.py
+web: sanic server:app -p 7777 --workers=2
