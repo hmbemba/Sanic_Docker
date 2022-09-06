@@ -1,1 +1,1 @@
-web: sanic server:app -p 7777 --workers=2
+worker: sanic server:app -p 7777 --workers=2
