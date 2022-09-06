@@ -1,1 +1,1 @@
-web: sanic server:app -p 7777 --debug --workers=2
+worker: python server.py
