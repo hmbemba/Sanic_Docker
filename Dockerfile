@@ -1,4 +1,3 @@
-
 FROM sanicframework/sanic:3.8-latest
 
 WORKDIR /sanic
